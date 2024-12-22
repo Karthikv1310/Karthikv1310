@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karthik V  
 ### A passionate **Data Analyst** from India  
 
----
+-
 
 ## 🛠️ **Languages and Tools**  
 - **Languages**: MySQL, Python  
