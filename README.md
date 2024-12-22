@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Karthik V  
 ### A passionate **Data Analyst** from India  
-
 -
 
 ## 🛠️ **Languages and Tools**  
 - **Languages**: MySQL, Python  
-- **Tools**: [Insert any additional tools you use, e.g., Tableau, Power BI, Excel, etc.]
+- **Tools**: PowerBi, Excel, Azure
 
--
 
 ## 🌐 **Connect with me**  
 
