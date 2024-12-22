@@ -1,9 +1,28 @@
-<h1 align="center">Hi 👋, I'm Karthik V</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 👋 Hi, I'm Karthik V  
+### A passionate **Data Analyst** from India  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ **Languages and Tools**  
+- **Languages**: MySQL, Python  
+- **Tools**: [Insert any additional tools you use, e.g., Tableau, Power BI, Excel, etc.]
 
-<h3 align="left">Connect with me:</h3>
-<img align ="left" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40"/><p>Karthiv1310</p>
+---
+
+## 🌐 **Connect with me**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-id)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiv1310)  
+
+---
+
+## 📈 **GitHub Stats**  
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthiv1310&show_icons=true&theme=radical)  
+
+## 🏆 **GitHub Streak**  
+![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthiv1310&theme=radical)  
+
+---
+
+Feel free to customize this further based on your preferences!
