@@ -7,7 +7,7 @@
 - **Languages**: MySQL, Python  
 - **Tools**: [Insert any additional tools you use, e.g., Tableau, Power BI, Excel, etc.]
 
----
+-
 
 ## 🌐 **Connect with me**  
 
@@ -15,6 +15,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-id)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiv1310)  
 
----
+-
 
 
