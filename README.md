@@ -17,12 +17,4 @@
 
 ---
 
-## 📈 **GitHub Stats**  
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthiv1310&show_icons=true&theme=radical)  
 
-## 🏆 **GitHub Streak**  
-![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthiv1310&theme=radical)  
-
----
-
-Feel free to customize this further based on your preferences!
